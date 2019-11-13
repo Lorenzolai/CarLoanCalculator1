@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarLoanCalculator</string>
+    <string name="enter_value_text">Enter Value:</string>
+    <string name="Car_Price">Enter Car Price</string>
+    <string name="Down_Paymenr">Enter Down Payment</string>
+    <string name="Interest_Rate">Enter Interest Rate</string>
+    <string name="Interest_Period">Enter Interest Period</string>
+</resources>
